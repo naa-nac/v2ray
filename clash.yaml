@@ -2,7 +2,6 @@ proxies:
 - {name: 🇯🇵JP-3.112.247.153-000, server: 00000000000000000000000000000000000000000000000000000000000003a.node-for-bigairport.win, port: 80, type: vmess, uuid: 78065c14-fc80-40b5-a46c-0e34efdf82fa, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 00000000000000000000000000000000000000000000000000000000000003a.node-for-bigairport.win}}
 - {name: 🇸🇬SG-18.141.224.98-001, server: 18.141.224.98, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
 - {name: 🇰🇷KR-43.201.86.41-002, server: 43.201.86.41, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-- {name: 🇨🇳CN-183.232.248.147-003, server: out.jijifun.com, port: "30033/?plugin=obfs%3Bobfs", type: ss, cipher: aes-256-gcm, password: 114514}
 - {name: 🇯🇵JP-18.183.126.72-004, server: jp.mooooobai.top, port: 25152, type: vmess, uuid: 8fe40424-de1a-48e7-9a78-247dae536cce, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: jp.mooooobai.top}}
 - {name: 🇸🇬SG-13.215.154.95-005, server: 13.215.154.95, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
 - {name: 🏁RELAY-172.67.147.152-006, server: 172.67.147.152, port: 443, type: vmess, uuid: 9e6ceeff-2546-3690-ac00-6fcdf31dec94, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /chcara, tls: true, ws-headers: {Host: v2fly.samrta.website}}
